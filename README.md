@@ -4,3 +4,5 @@ The repository "riyadh_real_estate_analysis" is a collection of files and resour
 *Code Folder* : contains the EDA code and the AQAR dataset.
 
 *AQAR Visualization plots Folder* : contains all Visualization plots.
+
+*Docs* : contains the AQAR Report and AQAR presentation.
